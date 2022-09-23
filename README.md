@@ -31,8 +31,9 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 10. **DRUDE** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/Drude.ipynb)  - `Using inputs from CHARMM-GUI Drude Prepper`
 
 
-12. **EquiBind** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/EquiBind_upload_pdb.ipynb)  - `Using EquiBind to perform direct-shot prediction of both the receptor binding location (blind docking) and the ligand’s bound pose and orientation.`
+12.**GNINA** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA.ipynb)  - `Using GNINA to perform molecular docking calculations with integrated support for scoring and optimizing ligands using convolutional neural networks. `
 
+13. **Protein-and-2-Ligand simulations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/Protein_2_ligand.ipynb)  - `Using AMBER to generate topology and to build the simulation box and for the 2 of ligand using GAFF2 force fields.`
 
 
 
