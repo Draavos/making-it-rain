@@ -38,7 +38,8 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 12. **Protein-and-2-Ligand simulations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/Protein_2_ligand.ipynb)  - `Using AMBER to generate topology and to build the simulation box and for the 2 of ligand using GAFF2 force fields.`
 
 
-11. **VINA Docking** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/vina_docking.ipynb)  - `Using VINA to perform molecular docking calculations  `
+13. **VINA Docking** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/vina_docking.ipynb)  - `Using VINA to perform molecular docking calculations  `
+14. **VINA GPU Docking** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Draavos/making-it-rain/blob/main/gpu_vina.ipynb)  - `Using VINA to perform molecular docking calculations  `
 
 
 ![alt text](https://github.com/pablo-arantes/Making-it-rain/blob/main/fluxogram_gh.png)
